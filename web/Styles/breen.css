@@ -1,0 +1,43 @@
+/*
+© Copyright William Breen 10/5/2016
+*/
+html{
+  font-family: sans-serif;
+  width: 100%;
+}
+body{
+  font-size: 90%;
+}
+header{
+  text-align: center;
+}
+main{
+  text-align: left;
+}
+article{
+
+}
+h1{
+  font-size: 175%;
+}
+h2{
+  font-size: 125%;
+}
+h3{
+  font-size: 100%;
+}
+ul{
+  
+}
+.date{
+  text-align: right;
+}
+.unfinished{
+
+}
+.location{
+
+}
+.position{
+
+}
